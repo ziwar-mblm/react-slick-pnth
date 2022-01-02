@@ -304,7 +304,8 @@ export class InnerSlider extends React.Component {
   };
   checkImagesLoad = () => {
     let images =
-      (this.list && this.list.querySelectorAll &&
+      (this.list &&
+        this.list.querySelectorAll &&
         this.list.querySelectorAll(".slick-slide img")) ||
       [];
     let imagesCount = images.length,
@@ -683,6 +684,7 @@ export class InnerSlider extends React.Component {
 
     var prevArrow, nextArrow;
     let arrowProps = extractObject(spec, [
+      "rtl",
       "infinite",
       "centerMode",
       "currentSlide",

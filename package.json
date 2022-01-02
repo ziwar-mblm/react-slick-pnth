@@ -1,5 +1,5 @@
 {
-  "name": "react-slick",
+  "name": "react-slick-pnth",
   "version": "0.28.1",
   "description": " React port of slick carousel",
   "main": "./lib",
@@ -20,11 +20,11 @@
     "gen": "node examples/scripts/generateExampleConfigs.js && node examples/scripts/generateExamples.js && xdg-open docs/jquery.html",
     "precommit": "lint-staged"
   },
-  "author": "Kiran Abburi",
+  "author": "Ryang Phan",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/akiran/react-slick"
+    "url": "https://github.com/ryangphan/react-slick-pnth"
   },
   "keywords": [
     "slick",
@@ -108,7 +108,7 @@
       "git add"
     ]
   },
-  "npmName": "react-slick",
+  "npmName": "react-slick-pnth",
   "npmFileMap": [
     {
       "basePath": "/dist/",
@@ -118,12 +118,12 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/akiran/react-slick/issues"
+    "url": "https://github.com/ryangphan/react-slick-pnth/issues"
   },
-  "homepage": "https://react-slick.neostack.com",
+  "homepage": "https://react-slick-pnth.neostack.com",
   "collective": {
     "type": "opencollective",
-    "url": "https://opencollective.com/react-slick",
+    "url": "https://opencollective.com/react-slick-pnth",
     "logo": "https://opencollective.com/opencollective/logo.txt"
   }
 }
