@@ -1,6 +1,6 @@
 ### react-slick-pnth
 
-##### The aim of this package is to improve RTL support for React-Slick. This package is originally designed base on Akiran's[react-slick](https://github.com/akiran/react-slick)
+##### The aim of this package is to fix React-slick's RTL bug that has been reported since 2018 but no one has successfully fixed it. This package is originally designed base on Akiran's [react-slick](https://github.com/akiran/react-slick)
 
 ## [Documentation](http://react-slick.neostack.com)
 
@@ -98,8 +98,8 @@ For all available methods, go [here](https://react-slick.neostack.com/docs/api#m
 Want to run demos locally
 
 ```bash
-git clone https://github.com/akiran/react-slick
-cd react-slick
+git clone https://github.com/ryangphan/react-slick-pnth
+cd react-slick-pnth
 npm install
 npm start
 open http://localhost:8080
