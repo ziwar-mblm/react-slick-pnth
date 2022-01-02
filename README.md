@@ -1,8 +1,6 @@
-### react-slick
+### react-slick-pnth
 
-[![Backers on Open Collective](https://opencollective.com/react-slick/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/react-slick/sponsors/badge.svg)](#sponsors) [![Join the chat at https://gitter.im/akiran/react-slick](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/akiran/react-slick?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-##### Carousel component built with React. It is a react port of [slick carousel](http://kenwheeler.github.io/slick/)
+##### The aim of this package is to improve RTL support for React-Slick. This package is originally designed base on Akiran's[react-slick](https://github.com/akiran/react-slick)
 
 ## [Documentation](http://react-slick.neostack.com)
 
@@ -11,13 +9,13 @@
 **npm**
 
 ```bash
-npm install react-slick --save
+npm install react-slick-pnth --save
 ```
 
 **yarn**
 
 ```bash
-yarn add react-slick
+yarn add react-slick-pnth
 ```
 
 **Also install slick-carousel for css and font**
@@ -52,7 +50,7 @@ or add cdn link in your html
 
 ```js
 import React from "react";
-import Slider from "react-slick";
+import Slider from "react-slick-pnth";
 
 export default function SimpleSlider() {
   var settings = {
