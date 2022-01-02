@@ -1,6 +1,8 @@
 ### react-slick-pnth
 
-##### The aim of this package is to fix React-slick's RTL bug that has been reported since 2018 but no one has successfully fixed it. This package is originally designed base on Akiran's [react-slick](https://github.com/akiran/react-slick)
+##### The aim of this package is to fix React-slick's RTL bug that has been reported since 2018 but no one has successfully fixed it.
+
+##### This package is originally designed base on Akiran's [react-slick](https://github.com/akiran/react-slick)
 
 ## [Documentation](http://react-slick.neostack.com)
 
